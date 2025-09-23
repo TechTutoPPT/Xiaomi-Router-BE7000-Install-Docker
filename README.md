@@ -1,5 +1,7 @@
 # Xiaomi-Router-BE7000-Install-Docker
 
+[![發揮小米路由器BE7000的隱藏功用](https://github.com/TechTutoPPT/Xiaomi-Router-BE7000-Install-Docker/blob/main/cover.PNG)](https://youtu.be/KENIOJXAZNM)
+
 相信很多用家都會忽略了BE7000有內置Docker的功能, 因為要啟用這功能, 需先執行一些事前操作, 現在我便將這些操作講解一編吧.
 1. 準備一個讀寫速度比較快的USB磁碟
 2. 透過DiskGenius這類磁碟管理工具將USB碟格式化為Ext4文件系統
